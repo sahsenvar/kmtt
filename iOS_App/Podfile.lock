@@ -1,0 +1,27 @@
+PODS:
+  - kmmtshared (0.1.1.21.4.26):
+    - Mixpanel (~> 4.2.0)
+    - UXCam (~> 3.4.1)
+  - Mixpanel (4.2.0)
+  - UXCam (3.4.1)
+
+DEPENDENCIES:
+  - kmmtshared (from `../kmmtshared`)
+
+SPEC REPOS:
+  trunk:
+    - Mixpanel
+    - UXCam
+
+EXTERNAL SOURCES:
+  kmmtshared:
+    :path: "../kmmtshared"
+
+SPEC CHECKSUMS:
+  kmmtshared: f69809ba308e96dac6b34bc35fabda1c89853e6d
+  Mixpanel: 10a8acdddfa4026b51a69c82ed0d573cc1e70120
+  UXCam: eda9b3c43b59508bbb241d2c0a04e35df6856872
+
+PODFILE CHECKSUM: 0997650e4f3cf515ad75c7936f38f0e1f17eaf2b
+
+COCOAPODS: 1.11.3

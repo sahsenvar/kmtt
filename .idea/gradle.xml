@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/kmmtshared/analytics" />
+            <option value="$PROJECT_DIR$/androidApp" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/kmmtshared/common" />
+            <option value="$PROJECT_DIR$/kmmtshared/core" />
+            <option value="$PROJECT_DIR$/kmmtshared/domain" />
+            <option value="$PROJECT_DIR$/kmmtshared/injector" />
+            <option value="$PROJECT_DIR$/kmmtshared" />
+            <option value="$PROJECT_DIR$/kmmtshared/models" />
+            <option value="$PROJECT_DIR$/kmmtshared/network" />
+            <option value="$PROJECT_DIR$/kmmtshared/persistence" />
+            <option value="$PROJECT_DIR$/kmmtshared/presenter" />
+            <option value="$PROJECT_DIR$/kmmtshared/resources" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
